@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/libICMath/src/com/ic/libICMath
+END
+ICCalculatorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/ICCalculatorBase.java
+END
+ICFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/ICFunction.java
+END
+ICMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/libICMath/src/com/ic/libICMath/ICMath.java
+END
+ICMathToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/ICMathToken.java
+END
+ICBuiltinFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/ICBuiltinFunction.java
+END
+ICMagicParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/libICMath/src/com/ic/libICMath/ICMagicParser.java
+END
+ICLinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/ICLinkedList.java
+END
+ICBuiltinOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/ICBuiltinOperator.java
+END

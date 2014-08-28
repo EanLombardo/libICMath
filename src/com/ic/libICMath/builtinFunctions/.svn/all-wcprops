@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions
+END
+rndn.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/rndn.java
+END
+abs.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/abs.java
+END
+isPrime.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/isPrime.java
+END
+csc.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/csc.java
+END
+sec.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/sec.java
+END
+fpart.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/fpart.java
+END
+ceil.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/ceil.java
+END
+product.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/product.java
+END
+seed.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/seed.java
+END
+floor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/floor.java
+END
+ncr.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/ncr.java
+END
+integrate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/integrate.java
+END
+tan.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/tan.java
+END
+rnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/rnd.java
+END
+cos.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/cos.java
+END
+acot.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/acot.java
+END
+round.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/round.java
+END
+INT.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/INT.java
+END
+asin.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/asin.java
+END
+tanh.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/tanh.java
+END
+rndi.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/rndi.java
+END
+cosh.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/cosh.java
+END
+npr.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/npr.java
+END
+sign.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/sign.java
+END
+sinh.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/sinh.java
+END
+delete.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/delete.java
+END
+sum.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/sum.java
+END
+ln.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/ln.java
+END
+acsc.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/acsc.java
+END
+asec.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/asec.java
+END
+derive.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/derive.java
+END
+ipart.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/ipart.java
+END
+clearAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/clearAll.java
+END
+log.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/log.java
+END
+atan.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/atan.java
+END
+rndb.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/rndb.java
+END
+acos.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/acos.java
+END
+cot.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/cot.java
+END
+sin.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinFunctions/sin.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators
+END
+TestGreaterThanEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestGreaterThanEquals.java
+END
+TestMod.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/libICMath/test/com/ic/libICMathTest/operators/TestMod.java
+END
+TestMultiply.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestMultiply.java
+END
+TestLessThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestLessThan.java
+END
+TestDivide.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestDivide.java
+END
+TestFactorial.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestFactorial.java
+END
+TestGreaterThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestGreaterThan.java
+END
+TestSubtract.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestSubtract.java
+END
+TestAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestAdd.java
+END
+TestNotEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestNotEqual.java
+END
+TestEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestEquals.java
+END
+TestLessThanEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestLessThanEquals.java
+END
+TestPower.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/operators/TestPower.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators
+END
+multiply.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/multiply.java
+END
+lessThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/lessThan.java
+END
+plus.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/plus.java
+END
+assign.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/assign.java
+END
+divide.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/divide.java
+END
+factorial.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/factorial.java
+END
+greaterThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/greaterThan.java
+END
+modulus.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/modulus.java
+END
+notEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/notEqual.java
+END
+lessThanEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/lessThanEqual.java
+END
+equals.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/equals.java
+END
+minus.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/minus.java
+END
+greaterThanEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/greaterThanEqual.java
+END
+power.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/libICMath/src/com/ic/libICMath/builtinOperators/power.java
+END

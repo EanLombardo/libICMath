@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest
+END
+FunctionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/FunctionTests.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/AllTests.java
+END
+OperatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/OperatorTests.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions
+END
+TestClearAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestClearAll.java
+END
+TestNPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestNPR.java
+END
+TestSeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestSeed.java
+END
+TestRNDN.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestRNDN.java
+END
+TestDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestDelete.java
+END
+TestNCR.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestNCR.java
+END
+TestRND.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestRND.java
+END
+TestABS.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestABS.java
+END
+TestRNDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestRNDB.java
+END
+TestIsPrime.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestIsPrime.java
+END
+TestLN.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestLN.java
+END
+TestRNDI.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/libICMath/test/com/ic/libICMathTest/functions/TestRNDI.java
+END
