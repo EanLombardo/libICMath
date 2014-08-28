@@ -29,3 +29,6 @@ libICMath is easy to use. Just instantiate an&nbsp;<strong>ICCalculatorBase</str
 
 <p>Design<br />
 libICMath is designed to be very extendable. Custom builtin functions and operators can be added by extending <strong>ICBuiltinFunction</strong> and <strong>ICBuiltinOperator</strong> respectivly. The point of that design was to allow for a possible plug in system in the future. So people could make their own Jars that libICMath could import to add more functionality.</p>
+
+<p><strong>More Notes</strong><br />
+Do not use this for anything, the calculations from this library should not be assumed correct. This was my first ever Java project and it was originally built and designed before I had any computer science education. The entire library needs to be redesigned as it used doubles for math, which are horribly imprecise, and in advanced&nbsp;calculations, inaccurate. This project has been massivly redesigned to support arbitrary precision, fractions, irational numbers, faster execution times, and even the posibility for symbolic derivatives and integrals, as well as the modular plugin system mentioned before. Sadly the new design is too complex for just one person to undertake, so currently this project is not under development.</p>
