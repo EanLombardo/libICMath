@@ -25,5 +25,7 @@
 <p>Usage<br />
 libICMath is easy to use. Just instantiate an&nbsp;<strong>ICCalculatorBase</strong>, and start evaluating expressions with&nbsp;<strong>ICCalculatorBase.stringEvalExpression(string)</strong></p>
 
+<p>The code under console sets up a basic calculator that can be used in the command line. The code there will show basic usage of libICMath. There is also Javadoc fo the whole library.<strong>&nbsp;</strong></p>
+
 <p>Design<br />
 libICMath is designed to be very extendable. Custom builtin functions and operators can be added by extending <strong>ICBuiltinFunction</strong> and <strong>ICBuiltinOperator</strong> respectivly. The point of that design was to allow for a possible plug in system in the future. So people could make their own Jars that libICMath could import to add more functionality.</p>
